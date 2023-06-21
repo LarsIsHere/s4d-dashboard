@@ -1,0 +1,8 @@
+
+},
+locales:{
+ enUS:{
+   name:"English",
+ }
+}
+}),
