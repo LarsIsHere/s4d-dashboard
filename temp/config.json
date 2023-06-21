@@ -1,0 +1,17 @@
+{
+    "discord": {
+      "token": "MTEyMDc2NDM2NDc2OTczODc1Mg.GFSAqu.RYZ2ymA7_h1C6Dnl45ov5K4Q6qIzLEbNdC_bk0",
+      "client": {
+        "id": "1120764364769738752",
+        "secret": "lUe6j5ywNd1HlzYWq6zoEltBCPV9Ezu2"
+      }
+    },
+    "dbd": {
+      "port": 8080,
+      "domain": "url",
+      "redirectUri": "/discord/callback",
+      "license": "ca9e6cb4-165c-473c-8a89-7fb0bf31d05e",
+      "ownerIDs": ["816691475844694047", "670334095800139777"]
+    }
+  }
+  
