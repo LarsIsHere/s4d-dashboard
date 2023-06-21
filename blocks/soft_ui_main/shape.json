@@ -1,0 +1,65 @@
+{
+    "type": "soft_ui_main",
+    "message0": "Start Soft UI Dashboard with %1 Token %2 Client ID %3 Client Secret %4 Port %5 Domain %6 Redirect_Uri %7 %8 Dashboard License %9 Owner ID's %10 Style %11 %12 Inputs %13 %14",
+    "args0": [
+      {
+        "type": "input_dummy"
+      },
+      {
+        "type": "input_value",
+        "name": "token"
+      },
+      {
+        "type": "input_value",
+        "name": "client_id"
+      },
+      {
+        "type": "input_value",
+        "name": "client_secret"
+      },
+      {
+        "type": "input_value",
+        "name": "port",
+        "check": "Number"
+      },
+      {
+        "type": "input_value",
+        "name": "domain"
+      },
+      {
+        "type": "field_input",
+        "name": "Redirect_Uri",
+        "text": "/discord/callback"
+      },
+      {
+        "type": "input_dummy"
+      },
+      {
+        "type": "input_value",
+        "name": "license"
+      },
+      {
+        "type": "input_value",
+        "name": "owner_array",
+        "check": "Array"
+      },
+      {
+        "type": "input_dummy"
+      },
+      {
+        "type": "input_statement",
+        "name": "style"
+      },
+      {
+        "type": "input_dummy"
+      },
+      {
+        "type": "input_statement",
+        "name": "settings"
+      }
+    ],
+    "inputsInline": false,
+    "colour": 330,
+    "tooltip": "",
+    "helpUrl": ""
+  }
